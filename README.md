@@ -1,4 +1,5 @@
-### 评分控件，Xcode 8 beta,Swift3
+### 评分控
+######Xcode 8 beta,Swift3
 
 #####示例
 ```swift
