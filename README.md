@@ -1,6 +1,5 @@
-### 评分控
+### 评分控件
 ######Xcode 8 beta,Swift3
-
 #####示例
 ```swift
       Class ViewController:UIViewController{
