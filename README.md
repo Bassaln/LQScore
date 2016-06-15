@@ -9,7 +9,7 @@
         override func viewDidLoad(){
           super.viewDidLoad()
           ...
-          self.score = LQScore(frame: CGRect(x: 100, y: 10, width: 100, height: 22))
+          self.score = LQScore(frame: CGRect(x: 100, y: 100, width: 100, height: 22))
           self.score?.isSelect = true
           self.score?.highlightImg = UIImage(named: "btn_star_evaluation_press")
           self.score?.normalImg = UIImage(named: "btn_star_evaluation_normal")
