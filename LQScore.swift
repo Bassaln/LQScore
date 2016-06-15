@@ -1,8 +1,6 @@
 //
 //  LQScore.swift
-//  LQBook
-//
-//  Created by dklq on 16/3/1.
+//  Created by dklq on 16/6/15.
 //  Copyright © 2016年 dklq. All rights reserved.
 //
 
